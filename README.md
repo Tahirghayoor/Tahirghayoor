@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **HTML , CSS , JavaScript , React ,Redux ,NodeJs, ExpressJs, MongoDB , NextJS**
 
-- 📫 How to reach me **ayazkk616@gmail.com**
+- 📫 How to reach me **ghayoortahir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
